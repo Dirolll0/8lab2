@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\8lab2\8lab2\obj\Debug\net8.0\8lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\8lab2\8lab2\obj\Debug\net8.0\8lab2.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\8lab2\8lab2\obj\Debug\net8.0\8lab2.AssemblyInfo.cs
+C:\Users\user\source\repos\8lab2\8lab2\obj\Debug\net8.0\8lab2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\8lab2\8lab2\bin\Debug\net8.0\8lab2.exe
+C:\Users\user\source\repos\8lab2\8lab2\bin\Debug\net8.0\8lab2.deps.json
+C:\Users\user\source\repos\8lab2\8lab2\bin\Debug\net8.0\8lab2.runtimeconfig.json
+C:\Users\user\source\repos\8lab2\8lab2\bin\Debug\net8.0\8lab2.dll
+C:\Users\user\source\repos\8lab2\8lab2\bin\Debug\net8.0\8lab2.pdb
+C:\Users\user\source\repos\8lab2\8lab2\obj\Debug\net8.0\8lab2.dll
+C:\Users\user\source\repos\8lab2\8lab2\obj\Debug\net8.0\refint\8lab2.dll
+C:\Users\user\source\repos\8lab2\8lab2\obj\Debug\net8.0\8lab2.pdb
+C:\Users\user\source\repos\8lab2\8lab2\obj\Debug\net8.0\8lab2.genruntimeconfig.cache
+C:\Users\user\source\repos\8lab2\8lab2\obj\Debug\net8.0\ref\8lab2.dll
